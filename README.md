@@ -1,2 +1,2 @@
 # Data-Analysis-of-London-Housing-Datset
-This repository shows the exploration of London Housing Dataset obtained from Kaggle. It summarizes the main characteristics of the dataset.
+This repository shows the exploration of a dataset on London Housing obtained from Kaggle. It summarizes the main characteristics of the dataset.
